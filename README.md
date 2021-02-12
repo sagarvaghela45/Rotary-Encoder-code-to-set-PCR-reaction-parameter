@@ -5,7 +5,7 @@ Menu select
 1)Default 
 3)Setup
 
-These are the setup parameter which also include number of cycle
+These are the setup parameter which also includes number of cycle
 Temperature
 1)Initial Denaturing
 2)Denaturing
